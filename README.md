@@ -136,6 +136,9 @@ _How to reproduce the result and or clone the repository_
 
 Tests were conducted to verify the data collection using this method is as close to real world as possible. Various networks were trained and tested to verify that real world results match generated data. 
 
+### Sparse Reconstruction from Carla Data
+![Carla Agent](assets/sparse_recon.gif)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Results
